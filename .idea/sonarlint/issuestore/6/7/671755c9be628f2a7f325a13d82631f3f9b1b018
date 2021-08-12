@@ -1,0 +1,7 @@
+
+k
+java:S1206V"PThis class overrides "equals()" and should therefore also override "hashCode()".(Ý¢êÍýÿÿÿÿ
+M
+java:S1128"2Remove this unused import 'java.util.Collections'.(¢³ïÓþÿÿÿÿ
+^
+java:S1128"CRemove this unused import 'org.springframework.stereotype.Indexed'.(ÔÖ‰Ðûÿÿÿÿ
